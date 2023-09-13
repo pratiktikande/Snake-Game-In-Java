@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.pratik;
 
 import java.awt.Color;
 import java.awt.Dimension;
