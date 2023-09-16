@@ -1,5 +1,4 @@
 package com.pratik;
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -133,7 +132,6 @@ public class Board extends JPanel implements ActionListener {
             locateApple();
         }
     }
-
     private void move() {
 
         for (int z = dots; z > 0; z--) {
