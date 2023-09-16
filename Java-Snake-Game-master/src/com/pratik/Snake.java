@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.pratik;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
